@@ -1,0 +1,5 @@
+leafguard-api/target/
+feedbacks/
+.archive/
+tests/
+*.class
