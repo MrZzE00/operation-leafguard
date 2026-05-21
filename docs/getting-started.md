@@ -30,8 +30,21 @@ Ouvrez un terminal et exécutez :
 ```bash
 git clone https://github.com/MrZzE00/operation-leafguard
 cd operation-leafguard
+```
+
+Puis lancez le script de préparation :
+
+**macOS / Linux**
+```bash
 chmod +x inject-defects.sh && ./inject-defects.sh
 ```
+
+**Windows** (Git Bash — terminal recommandé avec IntelliJ)
+```bash
+bash inject-defects.sh
+```
+
+> ❌ Pas de Git Bash ? Installez [Git for Windows](https://git-scm.com/download/win) — il inclut Git Bash. Autre option : WSL (Ubuntu).
 
 Le script prépare le projet pour le workshop. Vous verrez : `✅ leafguard-api prêt pour le workshop`.
 
@@ -177,4 +190,4 @@ En fin de session, tapez **`scores finaux`** dans votre outil LLM pour obtenir l
 
 ---
 
-*🌿 Opération LeafGuard · RTE DDL · 29 mai 2025*
+*🌿 Opération LeafGuard · 29 mai 2025*
