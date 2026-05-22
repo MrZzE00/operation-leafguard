@@ -190,4 +190,4 @@ En fin de session, tapez **`scores finaux`** dans votre outil LLM pour obtenir l
 
 ---
 
-*🌿 Opération LeafGuard · 29 mai 2025*
+*🌿 Opération LeafGuard · 29 mai 2026*
