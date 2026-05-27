@@ -5,3 +5,4 @@ tests/
 *.class
 docs/feuille-animateur.md
 .vscode
+support-animation/

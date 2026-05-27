@@ -11,7 +11,6 @@
 |---------|----------|------|
 | [`getting-started.md`](getting-started.md) | Participants | Prérequis + prework + prise en main avant le workshop |
 | [`workshop-2905.md`](workshop-2905.md) | Participants | Fichier interactif à ouvrir dans Copilot Chat ou Junie |
-| [`feuille-animateur.md`](feuille-animateur.md) | Animateur | Guide complet d'animation, scoring, hints, FAQ |
 
 ---
 
