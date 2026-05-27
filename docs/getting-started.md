@@ -4,7 +4,7 @@
 
 ---
 
-## Prework — À faire AVANT le jour J (5-10 min)
+## Prework  À faire AVANT le jour J (5-10 min)
 
 > ⚠️ Le setup doit être terminé **avant** le début du workshop. Ne pas attendre le signal de l'animateur pour cette étape.
 
@@ -39,12 +39,12 @@ Puis lancez le script de préparation :
 chmod +x inject-defects.sh && ./inject-defects.sh
 ```
 
-**Windows** (Git Bash — terminal recommandé avec IntelliJ)
+**Windows** (Git Bash  terminal recommandé avec IntelliJ)
 ```bash
 bash inject-defects.sh
 ```
 
-> ❌ Pas de Git Bash ? Installez [Git for Windows](https://git-scm.com/download/win) — il inclut Git Bash. Autre option : WSL (Ubuntu).
+> ❌ Pas de Git Bash ? Installez [Git for Windows](https://git-scm.com/download/win)  il inclut Git Bash. Autre option : WSL (Ubuntu).
 
 Le script prépare le projet pour le workshop. Vous verrez : `✅ leafguard-api prêt pour le workshop`.
 
@@ -56,7 +56,7 @@ cd leafguard-api && mvn compile -q && echo "✅ BUILD OK"
 
 **Durée estimée : 2 à 5 minutes** selon la vitesse de téléchargement des dépendances Maven (première fois uniquement).
 
-> ⚠️ Si Maven télécharge des dépendances pour la première fois, c'est normal — laissez-le finir.
+> ⚠️ Si Maven télécharge des dépendances pour la première fois, c'est normal  laissez-le finir.
 
 ### Importer dans IntelliJ
 
@@ -97,7 +97,7 @@ Rotation libre : vous pouvez changer de pilote entre les défis, ou quand vous l
 ## Étape 3 - Comprenez la règle fondamentale
 
 > **Vous ne tapez pas de code. Vous tapez uniquement des prompts.**
-> C'est l'IA qui travaille — vous, vous dirigez.
+> C'est l'IA qui travaille  vous, vous dirigez.
 
 Ce workshop mesure la **qualité de vos prompts**, pas vos connaissances Java.
 
@@ -112,7 +112,7 @@ Chaque défi se déroule en **5 étapes obligatoires** :
 │                      FLOW PAR DÉFI (10 min)                      │
 │                                                                  │
 │  1. LISEZ le contexte de l'incident (2 min)                      │
-│  2. RÉDIGEZ un prompt v1 — votre intuition naturelle             │
+│  2. RÉDIGEZ un prompt v1  votre intuition naturelle             │
 │  3. ENVOYEZ le prompt dans Copilot Chat ou Junie                 │
 │  4. Le LLM critique votre prompt AVANT de produire le résultat  │
 │     → ce qui est vague, ce qu'il va devoir supposer             │
@@ -126,7 +126,7 @@ Chaque défi se déroule en **5 étapes obligatoires** :
 └──────────────────────────────────────────────────────────────────┘
 ```
 
-> Le LLM critique votre prompt **avant** de produire le résultat — vous n'avez rien à demander. C'est la directive embarquée dans `workshop-2905.md` qui déclenche ce comportement automatiquement.
+> Le LLM critique votre prompt **avant** de produire le résultat  vous n'avez rien à demander. C'est la directive embarquée dans `workshop-2905.md` qui déclenche ce comportement automatiquement.
 
 ---
 
@@ -142,7 +142,7 @@ Le LLM calcule automatiquement le score à la fin de chaque défi (après votre 
 **Max par défi : 5 pts · Max total : 20 pts**
 
 **Pourquoi deux critères distincts ?**
-Le Delta mesure la qualité du livrable final. Les Lacunes corrigées mesurent autre chose : avez-vous réellement exploité la critique pour améliorer votre prompt v2 ? En production, savoir itérer sur un feedback est une compétence distincte de savoir produire un bon résultat du premier coup. Un groupe qui améliore son v2 sans lire la critique et un groupe qui corrige précisément chaque lacune pointée n'ont pas le même niveau — ce critère les distingue.
+Le Delta mesure la qualité du livrable final. Les Lacunes corrigées mesurent autre chose : avez-vous réellement exploité la critique pour améliorer votre prompt v2 ? En production, savoir itérer sur un feedback est une compétence distincte de savoir produire un bon résultat du premier coup. Un groupe qui améliore son v2 sans lire la critique et un groupe qui corrige précisément chaque lacune pointée n'ont pas le même niveau  ce critère les distingue.
 
 En fin de session, tapez **`scores finaux`** dans votre outil LLM pour obtenir le récapitulatif complet des 4 défis. Envoyez-le à l'animateur (capture d'écran ou copier-coller).
 
@@ -158,13 +158,13 @@ En fin de session, tapez **`scores finaux`** dans votre outil LLM pour obtenir l
 
 **Vous voulez comparer votre v2 avec la solution attendue ?**
 → Tapez : **solution défi 1** (ou 2, 3, 4) dans votre outil LLM.
-→ À utiliser **après** avoir tenté votre propre v2 — pas avant.
+→ À utiliser **après** avoir tenté votre propre v2  pas avant.
 
 **Vous voulez voir votre score total en fin de session ?**
 → Tapez : **scores finaux** dans votre outil LLM. Le récapitulatif des 4 défis s'affiche automatiquement.
 
 **Le LLM ne donne pas un résultat satisfaisant ?**
-→ C'est normal au prompt v1 — c'est précisément pour ça qu'il y a un v2. Utilisez la critique LLM.
+→ C'est normal au prompt v1  c'est précisément pour ça qu'il y a un v2. Utilisez la critique LLM.
 
 **IntelliJ ou Copilot ne répond pas ?**
 → Utilisez Copilot Chat dans le navigateur, ou Junie directement. Signalez le problème à l'animateur.
@@ -177,7 +177,7 @@ En fin de session, tapez **`scores finaux`** dans votre outil LLM pour obtenir l
 
 ---
 
-## Récapitulatif — Ordre des actions
+## Récapitulatif  Ordre des actions
 
 ```
 ✅ [PREWORK] Vérifier java + mvn en terminal

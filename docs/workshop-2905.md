@@ -1,5 +1,5 @@
 # 🌿 Opération LeafGuard - Workshop Prompt Engineering
-### RTE · 29 mai 2025 · 20 groupes × 5 personnes · 1h00
+### RTE · 29 mai 2026 · 20 groupes × 5 personnes · 1h00
 
 ---
 

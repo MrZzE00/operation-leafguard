@@ -1,7 +1,7 @@
-# 🌿 Opération LeafGuard — Workshop Prompt Engineering RTE
+# 🌿 Opération LeafGuard  Workshop Prompt Engineering RTE
 
 > Workshop gamifié · Prompting IA avec GitHub Copilot / Junie  
-> Mob Programming · ~100 développeurs Java RTE · **1h00**
+> Mob Programming · ~100 développeurs Java RTE · **1h30** · 29 mai 2026
 
 ---
 
@@ -9,9 +9,9 @@
 
 | Fichier | Audience | Rôle |
 |---------|----------|------|
-| [`docs/getting-started.md`](docs/getting-started.md) | Participants | Prérequis + prework + prise en main avant le workshop |
-| [`docs/workshop-2905.md`](docs/workshop-2905.md) | Participants | Fichier interactif à ouvrir dans Copilot Chat ou Junie |
-| [`docs/feuille-animateur.md`](docs/feuille-animateur.md) | Animateur | Guide complet d'animation, scoring, hints, FAQ |
+| [`getting-started.md`](getting-started.md) | Participants | Prérequis + prework + prise en main avant le workshop |
+| [`workshop-2905.md`](workshop-2905.md) | Participants | Fichier interactif à ouvrir dans Copilot Chat ou Junie |
+| [`feuille-animateur.md`](feuille-animateur.md) | Animateur | Guide complet d'animation, scoring, hints, FAQ |
 
 ---
 
@@ -33,4 +33,4 @@ IntelliJ IDEA avec GitHub Copilot (licence équipe) ou Junie installé.
 
 ---
 
-*NDA RTE — usage interne Zenika uniquement*
+*NDA RTE  usage interne Zenika uniquement*
