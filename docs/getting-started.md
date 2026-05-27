@@ -112,14 +112,14 @@ Chaque défi se déroule en **5 étapes obligatoires** :
 │                      FLOW PAR DÉFI (10 min)                      │
 │                                                                  │
 │  1. LISEZ le contexte de l'incident (2 min)                      │
-│  2. RÉDIGEZ un prompt v1  votre intuition naturelle             │
+│  2. RÉDIGEZ un prompt v1  votre intuition naturelle              │
 │  3. ENVOYEZ le prompt dans Copilot Chat ou Junie                 │
-│  4. Le LLM critique votre prompt AVANT de produire le résultat  │
-│     → ce qui est vague, ce qu'il va devoir supposer             │
+│  4. Le LLM critique votre prompt AVANT de produire le résultat   │
+│     → ce qui est vague, ce qu'il va devoir supposer              │
 │  5. LISEZ la critique collectivement                             │
 │  6. RÉDIGEZ le prompt v2 en corrigeant les lacunes,              │
 │     exécutez, observez le delta                                  │
-│  7. À la fin du défi, tapez "défi 2" / "défi 3" / "défi 4"      │
+│  7. À la fin du défi, tapez "défi 2" / "défi 3" / "défi 4"       │
 │     pour passer à l'incident suivant                             │
 │                                                                  │
 │  Score = delta qualité entre v1 et v2                            │
